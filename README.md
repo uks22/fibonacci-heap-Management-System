@@ -1,0 +1,1 @@
+Implemented heap that manages malloc() and free() over heap using fibonacci heap management technique. Key feature of fibonacci heap management system is that malloc() and free() takes place in constant time (O(1)).
